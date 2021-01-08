@@ -10,7 +10,7 @@ function createStore() {
     return state;
   }
 
-  return { 
+  return {
     dispatch,
     getState
    };
